@@ -34,7 +34,7 @@ body {
 }
 
 .cajaHijo1 {
-    background-image: url('/images/image-product-desktop.jpg');
+    background-image: url('../images/image-product-desktop.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 1.2rem 0 0 1.2rem;
